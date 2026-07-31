@@ -1,6 +1,6 @@
 {
-  "asset_count": 15,
-  "file_count": 14,
+  "asset_count": 21,
+  "file_count": 20,
   "assets": [
     {
       "name": "Chain_Barrier-col",
@@ -25,6 +25,64 @@
               0.9247429370880127,
               0.12027230858802795,
               0.9251327514648438
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ladder_TypeA-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/Ladder_TypeA.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/Ladder_TypeA_thumbnails/Object/ladder_typea-col.webp",
+        "hash": "SHA256:0d5224b629559450f914028a740c30b3a61ade33dcb4b6e4a9c5a16e2f9d5bb3"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.5922349691390991,
+              0.391238272190094,
+              2.5941123962402344
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Large_Stairs-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/Large_Stairs.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/Large_Stairs_thumbnails/Object/large_stairs-col.webp",
+        "hash": "SHA256:6954675a96fb38272eb6aeab632f5f7a98a18aa1c9ef7f5f3906f96240a1f1f3"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.9268856048583984,
+              3.469975471496582,
+              3.165452480316162
             ],
             "itemtype": "IDP_FLOAT"
           }
@@ -339,6 +397,64 @@
       }
     },
     {
+      "name": "Standard_Doorframe-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/Standard_Doorframe.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/Standard_Doorframe_thumbnails/Object/standard_doorframe-col.webp",
+        "hash": "SHA256:1c98b85fe7b994708e27eeb05cc78de9b3850176df8de25a172f59f565a3ad8e"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.9538488388061523,
+              0.14475393295288086,
+              2.0225229263305664
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Standard_DoubleDoorframe-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/Standard_DoubleDoorframe.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/Standard_DoubleDoorframe_thumbnails/Object/standard_doubledoorframe-col.webp",
+        "hash": "SHA256:5ca2da5356ca94cb8323e925e779209dbdaf8ec136dc8a82dcfc2d352cb03218"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              2.1862354278564453,
+              0.07966241985559464,
+              2.1232829093933105
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
       "name": "StoneSupport-col",
       "id_type": "OBJECT",
       "files": [
@@ -424,6 +540,64 @@
           }
         ]
       }
+    },
+    {
+      "name": "Wooden_Barrier-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/Wooden_Barrier.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/Wooden_Barrier_thumbnails/Object/wooden_barrier-col.webp",
+        "hash": "SHA256:7933db477e1be867d09cd12d3cf35dd2a40966145a5af522f871c2729d8c8a7a"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.3804908990859985,
+              0.12237071990966797,
+              0.9509283900260925
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wooden_Barrier_Long-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/Wooden_Barrier_Long.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/Wooden_Barrier_Long_thumbnails/Object/wooden_barrier_long-col.webp",
+        "hash": "SHA256:619f71387f565deff347826e965997a78359ce07229bd70911678fd2bee53435"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.9029388427734375,
+              0.12237024307250977,
+              0.9509282112121582
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
     }
   ],
   "files": [
@@ -431,6 +605,18 @@
       "path": "Assets/Chain_Barrier.blend",
       "size_in_bytes": 123368,
       "hash": "SHA256:94cde9917dc0f2ea9efdbc9ae5995af7dea56ea67b7fb198970eb1faeb11a7be",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/Ladder_TypeA.blend",
+      "size_in_bytes": 110794,
+      "hash": "SHA256:9d46f2ced87a20d7ed397a5852a2cd83f26c7e3a5445dce81e04857057e067b8",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/Large_Stairs.blend",
+      "size_in_bytes": 111233,
+      "hash": "SHA256:627440e77c0960b586ef3f4ff8ac0b3d7c89e2f9985f409fd6e883da8f91133a",
       "blender_version": "5.2.44"
     },
     {
@@ -494,6 +680,18 @@
       "blender_version": "5.2.44"
     },
     {
+      "path": "Assets/Standard_Doorframe.blend",
+      "size_in_bytes": 124594,
+      "hash": "SHA256:0efc52d81ae3d1893d524dc96d1b75761b8b5e9a762fe187bc687e6e803a359a",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/Standard_DoubleDoorframe.blend",
+      "size_in_bytes": 121427,
+      "hash": "SHA256:7568ae90333883d347d93ce22b1d5be7103b937160248c09d085a030d41cbfc7",
+      "blender_version": "5.2.44"
+    },
+    {
       "path": "Assets/Stone_Support.blend",
       "size_in_bytes": 163775,
       "hash": "SHA256:7c7dbd77105c68ae5de0c36d5327a8c219bd78fc238973169026fc4ec6ebae95",
@@ -501,14 +699,26 @@
     },
     {
       "path": "Assets/Truss_Beam_Structure.blend",
-      "size_in_bytes": 127657,
-      "hash": "SHA256:53f1ec08d001cc5d2714dfb73dc043085ce8622b75c66acbd4646fdcd2150a9d",
+      "size_in_bytes": 127389,
+      "hash": "SHA256:361ff4cfcd7c7db3dd8b876a747eb01ac89f6ce9fea32a061a62a5382af642a8",
       "blender_version": "5.2.44"
     },
     {
       "path": "Assets/Truss_Structure.blend",
       "size_in_bytes": 153274,
       "hash": "SHA256:145d71db9f4769a98aab7a42b01e8577f5d458d49aabd34b5257996e54c671a1",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/Wooden_Barrier.blend",
+      "size_in_bytes": 106407,
+      "hash": "SHA256:22ec578d5b8468fef660b4fb84d8b38287a902e8388b12099c80bd65927dbcf1",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/Wooden_Barrier_Long.blend",
+      "size_in_bytes": 106137,
+      "hash": "SHA256:ad628d3ca73e338a188601d5e27c7f89a06a2b63db95b82d3fb182887f2fa441",
       "blender_version": "5.2.44"
     }
   ]
