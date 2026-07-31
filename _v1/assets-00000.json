@@ -1,7 +1,123 @@
 {
-  "asset_count": 24,
-  "file_count": 23,
+  "asset_count": 47,
+  "file_count": 46,
   "assets": [
+    {
+      "name": "Arched_Door-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/Arched_Door.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/Arched_Door_thumbnails/Object/arched_door-col.webp",
+        "hash": "SHA256:3cac329cccff58f795ea1bbdb129b17695f898c2e55eb1a55e0c077e2544034f"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.8306530714035034,
+              0.19509103894233704,
+              1.9743304252624512
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Arched_Doorway-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/Arched_Doorway.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/Arched_Doorway_thumbnails/Object/arched_doorway-col.webp",
+        "hash": "SHA256:0491416095d1a1a06c1e51ce7a9b0824c4cf4eb9ab76292502532798edf259c7"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              2.8541672229766846,
+              0.3328087031841278,
+              3.014479160308838
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Arched_Elevator-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/Arched_Elevator.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/Arched_Elevator_thumbnails/Object/arched_elevator-col.webp",
+        "hash": "SHA256:e797273535a84a26ad5a95bdf29ce238757678fbecb4406a26412bc089d61e17"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              4.0224080085754395,
+              0.36460286378860474,
+              3.508007049560547
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Arched_Tunnel_Entrance-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/Arched_Tunnel_Entrance.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/Arched_Tunnel_Entrance_thumbnails/Object/arched_tunnel_entrance-col.webp",
+        "hash": "SHA256:23f1fbf4f3a2d80a7e54cc6024ecc00a878a50d76151cef8a848c1f49b51972e"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              2.3705801963806152,
+              0.7089124321937561,
+              2.502530097961426
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
     {
       "name": "Chain_Barrier-col",
       "id_type": "OBJECT",
@@ -25,6 +141,267 @@
               0.9247429370880127,
               0.12027230858802795,
               0.9251327514648438
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Curvy_Support-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/Curvy_Support.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/Curvy_Support_thumbnails/Object/curvy_support-col.webp",
+        "hash": "SHA256:03a1162fffb866d2262668e27b807ced8df264d9516c4dee50fbdaa40922e467"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              7.933426856994629,
+              0.2528003454208374,
+              1.958426833152771
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Decontamination_Room-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/Decontamination_Room.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/Decontamination_Room_thumbnails/Object/decontamination_room-col.webp",
+        "hash": "SHA256:fbf2331430d5c9648c07256b4deb9b0531828162f289b9d4108859cbc3d97fb3"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              5.2714524269104,
+              2.376260757446289,
+              2.180849075317383
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Elevator_Door-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/Elevator_Door.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/Elevator_Door_thumbnails/Object/elevator_door-col.webp",
+        "hash": "SHA256:aaa7070a5bac5cbe148b80a20328b636b6c5ad35c9b9ca4c60b8fe4e32b61526"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              2.25026798248291,
+              0.3660731911659241,
+              2.587894916534424
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Elevator_Pully_Assembly-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/Elevator_Pully_Assembly.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/Elevator_Pully_Assembly_thumbnails/Object/elevator_pully_assembly-col.webp",
+        "hash": "SHA256:d33f578048af8e2f47685e42b615f5e4e9525d0284ec925dcf901a00508a3edb"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.9061498641967773,
+              0.1421402096748352,
+              1.168250560760498
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Glass_Doors-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/Glass_Doors.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/Glass_Doors_thumbnails/Object/glass_doors-col.webp",
+        "hash": "SHA256:3b6a0051b20f6ad1a61b96604a2a0d1069ee5c10d946303141b453b857fabe5c"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.9628221988677979,
+              0.09625247120857239,
+              1.9869134426116943
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Industrial_DoubleDoor-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/Industrial_DoubleDoor.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/Industrial_DoubleDoor_thumbnails/Object/industrial_doubledoor-col.webp",
+        "hash": "SHA256:559b30a78c4ff29e53d7d983e9484053458ccc879b32905843c9635b5b62e537"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.9705159664154053,
+              0.24569709599018097,
+              1.9336498975753784
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Industrial_Part_001-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/Industrial_Part_001.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/Industrial_Part_001_thumbnails/Object/industrial_part_001-col.webp",
+        "hash": "SHA256:d0d190fa44965050524e6ac517c4c9ad1f9b6eb33b002ec42504439e8382630d"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              5.894107818603516,
+              0.3694051504135132,
+              1.5513687133789062
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Industrial_Sink-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/Industrial_Sink.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/Industrial_Sink_thumbnails/Object/industrial_sink-col.webp",
+        "hash": "SHA256:7b4fe3f4a3e67801cbc76dde923ed3ddbb1fbd9b4437cdd8fbacf6e2853e2292"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              4.543431282043457,
+              1.1778603792190552,
+              1.7572846412658691
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "JunctionBox-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/JunctionBox.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/JunctionBox_thumbnails/Object/junctionbox-col.webp",
+        "hash": "SHA256:0896a2df967d901d281dbb2f65b4e42ed9328e1c2ad986d95b40cdf11cfb1edc"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.056081771850586,
+              0.28719037771224976,
+              4.149219512939453
             ],
             "itemtype": "IDP_FLOAT"
           }
@@ -83,6 +460,35 @@
               0.5333104133605957,
               0.04957391694188118,
               2.307295799255371
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Large_Pillar-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/Large_Pillar.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/Large_Pillar_thumbnails/Object/large_pillar-col.webp",
+        "hash": "SHA256:0f992d40a2d0d8b49850286041422984500e6156a1c1a7df19ed15e051b66566"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.3940010070800781,
+              0.39399898052215576,
+              12.687334060668945
             ],
             "itemtype": "IDP_FLOAT"
           }
@@ -194,6 +600,35 @@
       }
     },
     {
+      "name": "Medium_Decorative_Pillar-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/Medium_Decorative_Pillar.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/Medium_Decorative_Pillar_thumbnails/Object/medium_decorative_pillar-col.webp",
+        "hash": "SHA256:144a064e2937db30064e3b07033fac35a6c2b9afa12ea31fab1b2226cd1fb4e9"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.6994017362594604,
+              0.6994017362594604,
+              5.125909805297852
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
       "name": "Molding_TypeA-col",
       "id_type": "OBJECT",
       "files": [
@@ -245,6 +680,35 @@
               2.0021629333496094,
               0.4881763458251953,
               0.2598729133605957
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Old_Sliding_Door-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/Old_Sliding_Door.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/Old_Sliding_Door_thumbnails/Object/old_sliding_door-col.webp",
+        "hash": "SHA256:2ff1f9759f748d18812c82085eb0d59f40e0ddffcca580ee2d1a97ff466cd76b"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.0879130363464355,
+              0.030546760186553,
+              1.7032074928283691
             ],
             "itemtype": "IDP_FLOAT"
           }
@@ -426,6 +890,122 @@
       }
     },
     {
+      "name": "ShowerHead-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/ShowerHead.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/ShowerHead_thumbnails/Object/showerhead-col.webp",
+        "hash": "SHA256:0f62613477b6ef98e30500b968787259dc6d1f25915f3a00dea87c492b8e7dc3"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.38492584228515625,
+              1.029566764831543,
+              2.666807174682617
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Size_Reference_Dummy",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/Size_Reference_Dummy.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/Size_Reference_Dummy_thumbnails/Object/size_reference_dummy.webp",
+        "hash": "SHA256:71936375f7ca4a0cae1b74356e6d23a33f2b8f710cfe8c16349dcfc0cddbeefa"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.8754431009292603,
+              0.32547780871391296,
+              1.7446720600128174
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Small_Pillar-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/Small_Pillar.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/Small_Pillar_thumbnails/Object/small_pillar-col.webp",
+        "hash": "SHA256:a10adaefe192d997316915531e8f46b26e441071a1b708dde67f699f6d6cdf93"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.30905652046203613,
+              0.30905628204345703,
+              2.5
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SprayRoom_Nozzle-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/SprayRoom_Nozzle.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/SprayRoom_Nozzle_thumbnails/Object/sprayroom_nozzle-col.webp",
+        "hash": "SHA256:964d65bb4a130b3b9fd5677c2d1ebecee4c554f74866f25db34688f3023eb7dc"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.7374639511108398,
+              0.21338503062725067,
+              1.4001429080963135
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
       "name": "Stairs-col",
       "id_type": "OBJECT",
       "files": [
@@ -571,6 +1151,35 @@
       }
     },
     {
+      "name": "Table_TypeA-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/Table_TypeA.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/Table_TypeA_thumbnails/Object/table_typea-col.webp",
+        "hash": "SHA256:022f54c0b1a09a1afc42969c8e35c2489cac27415ff147b073d31c2a9f9ab256"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.1627233028411865,
+              2.052161693572998,
+              1.1239852905273438
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
       "name": "Truss_Beam_Structure-col",
       "id_type": "OBJECT",
       "files": [
@@ -622,6 +1231,35 @@
               5.034994125366211,
               0.6366853713989258,
               9.409053802490234
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wall_Pipes-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/Wall_Pipes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/Wall_Pipes_thumbnails/Object/wall_pipes-col.webp",
+        "hash": "SHA256:fd3970b1cec40c735df071b24696281ee0d2822bd8785c135ecfab31da41ea0e"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              2.3482155799865723,
+              0.9834828972816467,
+              4.390687465667725
             ],
             "itemtype": "IDP_FLOAT"
           }
@@ -685,13 +1323,120 @@
           }
         ]
       }
+    },
+    {
+      "name": "Wooden_Platform-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/Wooden_Platform.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/Wooden_Platform_thumbnails/Object/wooden_platform-col.webp",
+        "hash": "SHA256:1224d97d5594e938e6d960d66a0f8779efd693db124a7e2657ba4e64c4033dc1"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              5.3271355628967285,
+              2.522749662399292,
+              0.2148752510547638
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
     }
   ],
   "files": [
     {
+      "path": "Assets/Arched_Door.blend",
+      "size_in_bytes": 106240,
+      "hash": "SHA256:8c049a3a9d70b6e475e34ce383000434c76517a336ba19bf101ebc92a0498e68",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/Arched_Doorway.blend",
+      "size_in_bytes": 126485,
+      "hash": "SHA256:98c4e645a21f7123a01a70634ea91c8dd2e43a88b8feb956b32cd31e4fb09445",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/Arched_Elevator.blend",
+      "size_in_bytes": 128166,
+      "hash": "SHA256:8252d83255927e80ced74748d786c76a7db0a0495ddfe79d4437ec4d12a091bc",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/Arched_Tunnel_Entrance.blend",
+      "size_in_bytes": 119987,
+      "hash": "SHA256:98aa7ef00388e928e9ee01c9e38b2d3d931fc113dca22778e303d4bf8d7f007b",
+      "blender_version": "5.2.44"
+    },
+    {
       "path": "Assets/Chain_Barrier.blend",
       "size_in_bytes": 123368,
       "hash": "SHA256:94cde9917dc0f2ea9efdbc9ae5995af7dea56ea67b7fb198970eb1faeb11a7be",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/Curvy_Support.blend",
+      "size_in_bytes": 131068,
+      "hash": "SHA256:99e5c4db5128e6bdc90439b974cecbeec3c86839cdcaf3aec0d4ff1e14f004e5",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/Decontamination_Room.blend",
+      "size_in_bytes": 161341,
+      "hash": "SHA256:36df2349731d56c9287dfef46cd72ceeb572adabb470b1d788f652e221f70223",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/Elevator_Door.blend",
+      "size_in_bytes": 108344,
+      "hash": "SHA256:760891a575db57f4c02d5a63752e1ac4466b4b419679ab19dd33057cba08ac8e",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/Elevator_Pully_Assembly.blend",
+      "size_in_bytes": 156064,
+      "hash": "SHA256:276d611ef7489d330e4e2b50984faa041bd93d329ff762234f3f36aa977afd59",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/Glass_Doors.blend",
+      "size_in_bytes": 122584,
+      "hash": "SHA256:ebf668b058021105ea753b16d535c02b4211d8bbe62596d28e4d03e5c934f21d",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/Industrial_DoubleDoor.blend",
+      "size_in_bytes": 142863,
+      "hash": "SHA256:9ab5903aec66d27c343d523dd8db0f9efdc5bacec4d6410a38a4d06b8636a9ab",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/Industrial_Part_001.blend",
+      "size_in_bytes": 164995,
+      "hash": "SHA256:208a08c02cfc98ad7e528184012870f3caa360934b20b678fc4cd501b740b562",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/Industrial_Sink.blend",
+      "size_in_bytes": 127761,
+      "hash": "SHA256:59cd802baba6392aa94c971dd48f6dc2811af844b34fcaa8805fed4282679c74",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/JunctionBox.blend",
+      "size_in_bytes": 112477,
+      "hash": "SHA256:6dbb78deb6e1a110c255d1dbc69cb95f024b12d028904b0c8d307e2cdab667c1",
       "blender_version": "5.2.44"
     },
     {
@@ -704,6 +1449,12 @@
       "path": "Assets/Ladder_TypeB.blend",
       "size_in_bytes": 120370,
       "hash": "SHA256:97af99dcdaa3b69c1e21ed7f9b339aeab334fff5e770b327dc3f448aef29f77b",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/Large_Pillar.blend",
+      "size_in_bytes": 110089,
+      "hash": "SHA256:b804a3ac21c29a8fef12b360929b904b985392a08eae593c157eec7f2701a794",
       "blender_version": "5.2.44"
     },
     {
@@ -725,6 +1476,12 @@
       "blender_version": "5.2.44"
     },
     {
+      "path": "Assets/Medium_Decorative_Pillar.blend",
+      "size_in_bytes": 124070,
+      "hash": "SHA256:9743aaa689df11fe72ffd8b82424823f1ee7949dc4b099c66b2ac5b1ab52f97b",
+      "blender_version": "5.2.44"
+    },
+    {
       "path": "Assets/Molding_TypeA.blend",
       "size_in_bytes": 104282,
       "hash": "SHA256:f46028e2783b127b42f3003051a580f790a713c810ddc0063519401868d92dc7",
@@ -732,8 +1489,14 @@
     },
     {
       "path": "Assets/Molding_TypeB.blend",
-      "size_in_bytes": 102236,
-      "hash": "SHA256:fc68731f11e397663492a27285010fe08b55a46f64383ae1a18284beb38f281e",
+      "size_in_bytes": 103214,
+      "hash": "SHA256:c3ec1a7879e5141d1c192703bb6185f7516333286067951d10323d6216deeeaf",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/Old_Sliding_Door.blend",
+      "size_in_bytes": 112739,
+      "hash": "SHA256:3502844f0c5bade88a89c0529ab90d780bf942092f6ce029d0b6c650dce3e1ee",
       "blender_version": "5.2.44"
     },
     {
@@ -773,6 +1536,30 @@
       "blender_version": "5.2.44"
     },
     {
+      "path": "Assets/ShowerHead.blend",
+      "size_in_bytes": 108420,
+      "hash": "SHA256:51a5b84eac7438530bb06a4be03ae88c67404ff9310c683806fab66edbb4d6bc",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/Size_Reference_Dummy.blend",
+      "size_in_bytes": 141301,
+      "hash": "SHA256:8caad48885c92b8f70b87834d2a87e25d6c91e30463ab0745965d5dde83beff2",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/Small_Pillar.blend",
+      "size_in_bytes": 108750,
+      "hash": "SHA256:13166a0f64b8f1b2b5f237a716af6830731e7e17a23a450663a755899e9a2cc3",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/SprayRoom_Nozzle.blend",
+      "size_in_bytes": 124319,
+      "hash": "SHA256:391458855a1ec12079787571f85c4172a2c76f596c05d15eed7184124f4b8a29",
+      "blender_version": "5.2.44"
+    },
+    {
       "path": "Assets/Stairs.blend",
       "size_in_bytes": 110647,
       "hash": "SHA256:a125156da5aef0a028e87dca4b11551267bb136611877b3a729893fa8af0cf47",
@@ -803,6 +1590,12 @@
       "blender_version": "5.2.44"
     },
     {
+      "path": "Assets/Table_TypeA.blend",
+      "size_in_bytes": 106033,
+      "hash": "SHA256:f4db69b6446e9e53250d126b9eced53b340e7438662304c712d4952b1444ffb6",
+      "blender_version": "5.2.44"
+    },
+    {
       "path": "Assets/Truss_Beam_Structure.blend",
       "size_in_bytes": 127389,
       "hash": "SHA256:361ff4cfcd7c7db3dd8b876a747eb01ac89f6ce9fea32a061a62a5382af642a8",
@@ -815,6 +1608,12 @@
       "blender_version": "5.2.44"
     },
     {
+      "path": "Assets/Wall_Pipes.blend",
+      "size_in_bytes": 125790,
+      "hash": "SHA256:7a0bcc0c12a7803e3c437ba23d3614d6d3eb2392b68e5dd5e94088aa08c86469",
+      "blender_version": "5.2.44"
+    },
+    {
       "path": "Assets/Wooden_Barrier.blend",
       "size_in_bytes": 106407,
       "hash": "SHA256:22ec578d5b8468fef660b4fb84d8b38287a902e8388b12099c80bd65927dbcf1",
@@ -824,6 +1623,12 @@
       "path": "Assets/Wooden_Barrier_Long.blend",
       "size_in_bytes": 106137,
       "hash": "SHA256:ad628d3ca73e338a188601d5e27c7f89a06a2b63db95b82d3fb182887f2fa441",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/Wooden_Platform.blend",
+      "size_in_bytes": 110811,
+      "hash": "SHA256:2471282169b055e2d192145aa43476884399386dffb8738f652179cb58ccf648",
       "blender_version": "5.2.44"
     }
   ]
