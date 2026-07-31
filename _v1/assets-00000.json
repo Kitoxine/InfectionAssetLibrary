@@ -1,6 +1,6 @@
 {
-  "asset_count": 47,
-  "file_count": 46,
+  "asset_count": 51,
+  "file_count": 50,
   "assets": [
     {
       "name": "Arched_Door-col",
@@ -525,6 +525,35 @@
       }
     },
     {
+      "name": "LargeCrate-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/LargeCrate.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/LargeCrate_thumbnails/Object/largecrate-col.webp",
+        "hash": "SHA256:54804bcd1dfe768df6527dada200a8f58eed9f11cbdd76cef83026cd26642e89"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.2438020706176758,
+              1.844017505645752,
+              1.4404189586639404
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
       "name": "Long_Truss-col",
       "id_type": "OBJECT",
       "files": [
@@ -622,6 +651,64 @@
               0.6994017362594604,
               0.6994017362594604,
               5.125909805297852
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MediumCrate-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/MediumCrate.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/MediumCrate_thumbnails/Object/mediumcrate-col.webp",
+        "hash": "SHA256:264fdcca140ce0f8ed09ca8752a130954c39425963099970fbcc7f7f3260abb8"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.9139541983604431,
+              2.0,
+              0.7799299955368042
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MilkCrate-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/MilkCrate.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/MilkCrate_thumbnails/Object/milkcrate-col.webp",
+        "hash": "SHA256:49d34b74ea9d81fb90b69131faa42f0c39db1f171ca2586d8632144bfc826d3c"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.2800000011920929,
+              0.32999998331069946,
+              0.2199999988079071
             ],
             "itemtype": "IDP_FLOAT"
           }
@@ -970,6 +1057,35 @@
               0.30905652046203613,
               0.30905628204345703,
               2.5
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SmallCrate-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/SmallCrate.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/SmallCrate_thumbnails/Object/smallcrate-col.webp",
+        "hash": "SHA256:44a5abffa99227ec292748f1d4c33884db1a275ac7ccfb571c786a3090adf726"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.8701962828636169,
+              1.365374207496643,
+              0.8148667216300964
             ],
             "itemtype": "IDP_FLOAT"
           }
@@ -1452,6 +1568,12 @@
       "blender_version": "5.2.44"
     },
     {
+      "path": "Assets/LargeCrate.blend",
+      "size_in_bytes": 113189,
+      "hash": "SHA256:718dcc9ba69644fdc8dc901203b94e4cc66fd9a691c26691ed0aad0610b6a9ff",
+      "blender_version": "5.2.44"
+    },
+    {
       "path": "Assets/Large_Pillar.blend",
       "size_in_bytes": 110089,
       "hash": "SHA256:b804a3ac21c29a8fef12b360929b904b985392a08eae593c157eec7f2701a794",
@@ -1476,9 +1598,21 @@
       "blender_version": "5.2.44"
     },
     {
+      "path": "Assets/MediumCrate.blend",
+      "size_in_bytes": 109720,
+      "hash": "SHA256:3b0663f6ef6af031e1501e916b57e39df0b77e8be04b3b6db847fa9672aaf3bd",
+      "blender_version": "5.2.44"
+    },
+    {
       "path": "Assets/Medium_Decorative_Pillar.blend",
       "size_in_bytes": 124070,
       "hash": "SHA256:9743aaa689df11fe72ffd8b82424823f1ee7949dc4b099c66b2ac5b1ab52f97b",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/MilkCrate.blend",
+      "size_in_bytes": 118708,
+      "hash": "SHA256:825d0f5d8b943913a63c83bddc0102d02197f1d353d2947fa30816a0dfb144c7",
       "blender_version": "5.2.44"
     },
     {
@@ -1545,6 +1679,12 @@
       "path": "Assets/Size_Reference_Dummy.blend",
       "size_in_bytes": 141301,
       "hash": "SHA256:8caad48885c92b8f70b87834d2a87e25d6c91e30463ab0745965d5dde83beff2",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/SmallCrate.blend",
+      "size_in_bytes": 109445,
+      "hash": "SHA256:d6566943101dcef99fe4ee7bf32d91937ba9d23d7357b18a86a98f19fedee690",
       "blender_version": "5.2.44"
     },
     {
