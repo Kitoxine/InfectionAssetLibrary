@@ -1,7 +1,36 @@
 {
-  "asset_count": 9,
-  "file_count": 8,
+  "asset_count": 15,
+  "file_count": 14,
   "assets": [
+    {
+      "name": "Chain_Barrier-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/Chain_Barrier.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/Chain_Barrier_thumbnails/Object/chain_barrier-col.webp",
+        "hash": "SHA256:9cf715c3268f65955281d3fabba725e0fb9593b6279baf4581d903468360f4b8"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.9247429370880127,
+              0.12027230858802795,
+              0.9251327514648438
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
     {
       "name": "Long_Truss-col",
       "id_type": "OBJECT",
@@ -165,6 +194,151 @@
       }
     },
     {
+      "name": "Railing_TypeB-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/Railing_TypeB.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/Railing_TypeB_thumbnails/Object/railing_typeb-col.webp",
+        "hash": "SHA256:6134d422bce561f8a35c8fb8f6771e42d3214385de2abc7adf4f4b33875f08fa"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.079573154449463,
+              0.057166144251823425,
+              1.1039314270019531
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Railing_TypeB_Curve-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/Railing_TypeB_Curve.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/Railing_TypeB_Curve_thumbnails/Object/railing_typeb_curve-col.webp",
+        "hash": "SHA256:dc00387bde90f600b9288605337cc7bccba160530d799282f4b79dfd5853cde0"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.0362344980239868,
+              1.0354750156402588,
+              1.1043829917907715
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Railing_TypeC-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/Railing_TypeC.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/Railing_TypeC_thumbnails/Object/railing_typec-col.webp",
+        "hash": "SHA256:0806ec74816ce4ac1748e865f530cd9e8fb4cb0936667b54223dcbefd67e9e09"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              2.857712745666504,
+              0.09601462632417679,
+              1.0981669425964355
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Stairs-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/Stairs.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/Stairs_thumbnails/Object/stairs-col.webp",
+        "hash": "SHA256:066408c1273753d2477594a7a20b4bf5e19990bcaaaba4277056690f6481fa72"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.9268832206726074,
+              1.1983177661895752,
+              1.0960123538970947
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Stairs_WithRailing-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/Stairs_WithRailing.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/Stairs_WithRailing_thumbnails/Object/stairs_withrailing-col.webp",
+        "hash": "SHA256:c8f64431c625de7741ebdff1381ebc8d7268b6fee7b1e9b1661a48d85f291e01"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.9669294357299805,
+              1.500852108001709,
+              1.9417295455932617
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
       "name": "StoneSupport-col",
       "id_type": "OBJECT",
       "files": [
@@ -254,6 +428,12 @@
   ],
   "files": [
     {
+      "path": "Assets/Chain_Barrier.blend",
+      "size_in_bytes": 123368,
+      "hash": "SHA256:94cde9917dc0f2ea9efdbc9ae5995af7dea56ea67b7fb198970eb1faeb11a7be",
+      "blender_version": "5.2.44"
+    },
+    {
       "path": "Assets/Long_Truss.blend",
       "size_in_bytes": 141814,
       "hash": "SHA256:6a7abfda648c829f0a7fd612a9973c7389ced79ad89d79c46a79a679109aa087",
@@ -273,14 +453,44 @@
     },
     {
       "path": "Assets/Railing_TypeA.blend",
-      "size_in_bytes": 127315,
-      "hash": "SHA256:7d8e0428900a253fefe43ef47f5d7590e28c2513f3e652b1794b0c6709bcc4bb",
+      "size_in_bytes": 126236,
+      "hash": "SHA256:b191e8e10a4fc5b6e936ff978189810ad57abfe3d6b5a83f1e641d7136e3b9bb",
       "blender_version": "5.2.44"
     },
     {
       "path": "Assets/Railing_TypeA_Curve.blend",
       "size_in_bytes": 132912,
       "hash": "SHA256:3d267e459e59367398602064cfe8642d6b0bc5f916e7d2168212419a63c9fc8d",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/Railing_TypeB.blend",
+      "size_in_bytes": 115671,
+      "hash": "SHA256:6254ef7457db2d306419f6b067896b4f56448b68a0ab6ee1db0c51ad662b44a5",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/Railing_TypeB_Curve.blend",
+      "size_in_bytes": 117963,
+      "hash": "SHA256:f4423d4546be4d21c037144968d60cd79578765f4105f40054edb07da08e147d",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/Railing_TypeC.blend",
+      "size_in_bytes": 107974,
+      "hash": "SHA256:dc628a82e9f83842a2da120eacaa660fccabbd1f62870e563e2e35d40182ec3c",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/Stairs.blend",
+      "size_in_bytes": 110860,
+      "hash": "SHA256:ef9d59321dabdbb65c8084e228a9b5fae48a4683537d956fed6698f7518dfca4",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/Stairs_WithRailing.blend",
+      "size_in_bytes": 113042,
+      "hash": "SHA256:a061ce3e32269029abad0f1a4045f38206c9ab4f5e874dbcabf2da9a606ab991",
       "blender_version": "5.2.44"
     },
     {
