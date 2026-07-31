@@ -397,7 +397,7 @@
       }
     },
     {
-      "name": "Truss-col",
+      "name": "Truss_Support-col",
       "id_type": "OBJECT",
       "files": [
         "Assets/Truss_Support.blend"
@@ -406,7 +406,7 @@
         "min": "5.2"
       },
       "thumbnail": {
-        "url": "Assets/Truss_Support_thumbnails/Object/truss-col.webp",
+        "url": "Assets/Truss_Support_thumbnails/Object/truss_support-col.webp",
         "hash": "SHA256:6046f16233f7ba588352396776e8ec2ca83e4b28cacd7ebdeacd72be31fd8188"
       },
       "meta": {
@@ -483,8 +483,8 @@
     },
     {
       "path": "Assets/Stairs.blend",
-      "size_in_bytes": 110860,
-      "hash": "SHA256:ef9d59321dabdbb65c8084e228a9b5fae48a4683537d956fed6698f7518dfca4",
+      "size_in_bytes": 110647,
+      "hash": "SHA256:a125156da5aef0a028e87dca4b11551267bb136611877b3a729893fa8af0cf47",
       "blender_version": "5.2.44"
     },
     {
@@ -507,8 +507,8 @@
     },
     {
       "path": "Assets/Truss_Support.blend",
-      "size_in_bytes": 128527,
-      "hash": "SHA256:e39b0a3c9676397d2e591363e828f2d01aec240dbdee2ff76acb64c04584f2aa",
+      "size_in_bytes": 124009,
+      "hash": "SHA256:685016132e5350169e88721ddc14ef4664e90147af226503a281de306e201a6e",
       "blender_version": "5.2.44"
     }
   ]
