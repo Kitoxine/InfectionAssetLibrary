@@ -87,8 +87,8 @@
     },
     {
       "path": "Assets/Rack_Car.blend",
-      "size_in_bytes": 194160,
-      "hash": "SHA256:5025ea40e5c08501bb0901d34d8d5e8c7cbe15d010e289d8c92dab8010d5731c",
+      "size_in_bytes": 194164,
+      "hash": "SHA256:963c97f708f3a123b4870ccb8b04a5de240be08bf533535744878fbe2937049f",
       "blender_version": "5.2.44"
     }
   ]
