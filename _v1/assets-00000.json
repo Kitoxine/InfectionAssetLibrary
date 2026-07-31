@@ -1,0 +1,42 @@
+{
+  "asset_count": 1,
+  "file_count": 1,
+  "assets": [
+    {
+      "name": "MaintainenceCar-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Maintainence_Car.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Maintainence_Car_thumbnails/Object/maintainencecar-col.webp",
+        "hash": "SHA256:1c4d0b4d5d20e52185b730271c583ac5d292d97bf4fd2a3daff022f309da4bad"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              9.13038444519043,
+              2.8691787719726562,
+              4.822442531585693
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    }
+  ],
+  "files": [
+    {
+      "path": "Maintainence_Car.blend",
+      "size_in_bytes": 219957,
+      "hash": "SHA256:16c340dc53b42e91332696192d34847a09b1e83b436d3669335cb3fe7c36a36a",
+      "blender_version": "5.2.44"
+    }
+  ]
+}
