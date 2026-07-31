@@ -1,6 +1,6 @@
 {
-  "asset_count": 2,
-  "file_count": 1,
+  "asset_count": 3,
+  "file_count": 2,
   "assets": [
     {
       "name": "UV Test",
@@ -47,6 +47,34 @@
           }
         ]
       }
+    },
+    {
+      "name": "RackCar-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/Rack_Car.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/Rack_Car_thumbnails/Object/rackcar-col.webp",
+        "hash": "SHA256:63df4a706aea5f3f5c449ca24bf9a29ca82919c72f83113064125ac5872325e0"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              11.633066177368164,
+              2.531810760498047,
+              3.1396195888519287
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
     }
   ],
   "files": [
@@ -54,6 +82,12 @@
       "path": "Assets/Maintainence_Car.blend",
       "size_in_bytes": 306257,
       "hash": "SHA256:2e6baaa1e3d5c218071de9860af9091140843a7936e839c202386e876df42380",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/Rack_Car.blend",
+      "size_in_bytes": 192674,
+      "hash": "SHA256:27ab701d7b8944577bae449284e4ea463d807197ac6b75c35d8271335f2f1cbc",
       "blender_version": "5.2.44"
     }
   ]
