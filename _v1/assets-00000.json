@@ -1,6 +1,6 @@
 {
-  "asset_count": 21,
-  "file_count": 20,
+  "asset_count": 24,
+  "file_count": 23,
   "assets": [
     {
       "name": "Chain_Barrier-col",
@@ -54,6 +54,35 @@
               0.5922349691390991,
               0.391238272190094,
               2.5941123962402344
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ladder_TypeB-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/Ladder_TypeB.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/Ladder_TypeB_thumbnails/Object/ladder_typeb-col.webp",
+        "hash": "SHA256:af7273ad5bcb25e558cb04932a43a6daef9b2a21620293225d8d8c9a699fae85"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.5333104133605957,
+              0.04957391694188118,
+              2.307295799255371
             ],
             "itemtype": "IDP_FLOAT"
           }
@@ -158,6 +187,64 @@
               9.13038444519043,
               2.8691787719726562,
               4.822442531585693
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Molding_TypeA-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/Molding_TypeA.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/Molding_TypeA_thumbnails/Object/molding_typea-col.webp",
+        "hash": "SHA256:a1a1f5a127bf39a33d3a7c56040a872c7a77f9b0a40e826568265cfcd694dfa7"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              2.0113155841827393,
+              0.6759187579154968,
+              0.48003101348876953
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Molding_TypeB-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/Molding_TypeB.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/Molding_TypeB_thumbnails/Object/molding_typeb-col.webp",
+        "hash": "SHA256:99a17f77901800edb15925ed563b15ee87ba4acc1a729eadb6f48acf4a2aa678"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              2.0021629333496094,
+              0.4881763458251953,
+              0.2598729133605957
             ],
             "itemtype": "IDP_FLOAT"
           }
@@ -614,6 +701,12 @@
       "blender_version": "5.2.44"
     },
     {
+      "path": "Assets/Ladder_TypeB.blend",
+      "size_in_bytes": 120370,
+      "hash": "SHA256:97af99dcdaa3b69c1e21ed7f9b339aeab334fff5e770b327dc3f448aef29f77b",
+      "blender_version": "5.2.44"
+    },
+    {
       "path": "Assets/Large_Stairs.blend",
       "size_in_bytes": 111233,
       "hash": "SHA256:627440e77c0960b586ef3f4ff8ac0b3d7c89e2f9985f409fd6e883da8f91133a",
@@ -629,6 +722,18 @@
       "path": "Assets/Maintainence_Car.blend",
       "size_in_bytes": 306257,
       "hash": "SHA256:2e6baaa1e3d5c218071de9860af9091140843a7936e839c202386e876df42380",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/Molding_TypeA.blend",
+      "size_in_bytes": 104282,
+      "hash": "SHA256:f46028e2783b127b42f3003051a580f790a713c810ddc0063519401868d92dc7",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/Molding_TypeB.blend",
+      "size_in_bytes": 102236,
+      "hash": "SHA256:fc68731f11e397663492a27285010fe08b55a46f64383ae1a18284beb38f281e",
       "blender_version": "5.2.44"
     },
     {
