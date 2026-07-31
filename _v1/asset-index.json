@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0.0",
+  "asset_size_bytes": 306257,
+  "asset_count": 2,
+  "file_count": 1,
+  "pages": [
+    {
+      "url": "_v1/assets-00000.json",
+      "hash": "SHA256:7ad91b792c586e8bd7ea60ba3f45d0699d12e4dd80d42af352ad5ed041dbee80"
+    }
+  ],
+  "catalogs": [
+    {
+      "path": "Infection Assets",
+      "uuids": [
+        "a0667369-5fd1-42e1-8b5a-3c4a90e0fe6e"
+      ],
+      "simple_name": "Infection Assets"
+    },
+    {
+      "path": "Infection Assets/Assets",
+      "uuids": [
+        "7d0673d8-e720-4a07-ae8a-252da787db37"
+      ],
+      "simple_name": "Infection Assets-Assets"
+    },
+    {
+      "path": "Infection Assets/Materials",
+      "uuids": [
+        "be91986a-c3e4-4bb7-bc20-05694917bcf1"
+      ],
+      "simple_name": "Infection Assets-Materials"
+    }
+  ]
+}

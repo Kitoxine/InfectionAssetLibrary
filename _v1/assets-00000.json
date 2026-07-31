@@ -1,0 +1,60 @@
+{
+  "asset_count": 2,
+  "file_count": 1,
+  "assets": [
+    {
+      "name": "UV Test",
+      "id_type": "MATERIAL",
+      "files": [
+        "Assets/Maintainence_Car.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/Maintainence_Car_thumbnails/Material/uv-test.webp",
+        "hash": "SHA256:247c2575e040d58d8425d00b08ca0ff03539f5d7aee23189cb466d53dc3fc94c"
+      },
+      "meta": {
+        "catalog_id": "be91986a-c3e4-4bb7-bc20-05694917bcf1"
+      }
+    },
+    {
+      "name": "MaintainenceCar-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/Maintainence_Car.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/Maintainence_Car_thumbnails/Object/maintainencecar-col.webp",
+        "hash": "SHA256:09e3de7b9b8883602272a96f75260fb1d49ed5c83ead3bce8ab4760cf3b2e75d"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              9.13038444519043,
+              2.8691787719726562,
+              4.822442531585693
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    }
+  ],
+  "files": [
+    {
+      "path": "Assets/Maintainence_Car.blend",
+      "size_in_bytes": 306257,
+      "hash": "SHA256:2e6baaa1e3d5c218071de9860af9091140843a7936e839c202386e876df42380",
+      "blender_version": "5.2.44"
+    }
+  ]
+}
