@@ -62,6 +62,7 @@
         "hash": "SHA256:63df4a706aea5f3f5c449ca24bf9a29ca82919c72f83113064125ac5872325e0"
       },
       "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
         "properties": [
           {
             "name": "dimensions",
@@ -86,8 +87,8 @@
     },
     {
       "path": "Assets/Rack_Car.blend",
-      "size_in_bytes": 192674,
-      "hash": "SHA256:27ab701d7b8944577bae449284e4ea463d807197ac6b75c35d8271335f2f1cbc",
+      "size_in_bytes": 194160,
+      "hash": "SHA256:5025ea40e5c08501bb0901d34d8d5e8c7cbe15d010e289d8c92dab8010d5731c",
       "blender_version": "5.2.44"
     }
   ]

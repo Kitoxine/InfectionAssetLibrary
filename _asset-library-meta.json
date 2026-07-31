@@ -2,13 +2,11 @@
   "api_versions": {
     "v1": {
       "url": "_v1/asset-index.json",
-      "hash": "SHA256:a4df85ffada44b9f252faa84f3eef8a13089de0b12d5da737cf1037afe7f7a79"
+      "hash": "SHA256:306f53c01d4e4147762f25f190b8572b53a1b6d0ee264b92e5ee3749922e707c"
     }
   },
-  "name": "Your Asset Library",
+  "name": "Infection Asset Library",
   "contact": {
-    "name": "Your Name",
-    "url": "https://example.org/",
-    "email": "example@example.org"
+    "name": "Ghoul Studio"
   }
 }
