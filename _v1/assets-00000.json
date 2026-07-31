@@ -1,6 +1,6 @@
 {
-  "asset_count": 14,
-  "file_count": 13,
+  "asset_count": 15,
+  "file_count": 14,
   "assets": [
     {
       "name": "Chain_Barrier-col",
@@ -368,6 +368,35 @@
       }
     },
     {
+      "name": "Truss_Beam_Structure-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/Truss_Beam_Structure.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/Truss_Beam_Structure_thumbnails/Object/truss_beam_structure-col.webp",
+        "hash": "SHA256:6046f16233f7ba588352396776e8ec2ca83e4b28cacd7ebdeacd72be31fd8188"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              8.721986770629883,
+              4.045309066772461,
+              4.8830647468566895
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
       "name": "Truss_structure-col",
       "id_type": "OBJECT",
       "files": [
@@ -468,6 +497,12 @@
       "path": "Assets/Stone_Support.blend",
       "size_in_bytes": 163775,
       "hash": "SHA256:7c7dbd77105c68ae5de0c36d5327a8c219bd78fc238973169026fc4ec6ebae95",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/Truss_Beam_Structure.blend",
+      "size_in_bytes": 127657,
+      "hash": "SHA256:53f1ec08d001cc5d2714dfb73dc043085ce8622b75c66acbd4646fdcd2150a9d",
       "blender_version": "5.2.44"
     },
     {
