@@ -1,6 +1,6 @@
 {
-  "asset_count": 51,
-  "file_count": 50,
+  "asset_count": 57,
+  "file_count": 56,
   "assets": [
     {
       "name": "Arched_Door-col",
@@ -610,7 +610,7 @@
       },
       "thumbnail": {
         "url": "Assets/Maintainence_Car_thumbnails/Object/maintainencecar-col.webp",
-        "hash": "SHA256:09e3de7b9b8883602272a96f75260fb1d49ed5c83ead3bce8ab4760cf3b2e75d"
+        "hash": "SHA256:b10d755f46def48285965170f025e3cc0abdd4a6e0fab636ccc69fee12348f98"
       },
       "meta": {
         "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
@@ -680,6 +680,180 @@
               0.9139541983604431,
               2.0,
               0.7799299955368042
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MetalPanel_TypeA-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/MetalPanel_TypeA.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/MetalPanel_TypeA_thumbnails/Object/metalpanel_typea-col.webp",
+        "hash": "SHA256:10217f18b7e7bd56e30f9ca125cf6b0c4d620768873bfd0686e2ad6966ddcd49"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              8.775619506835938,
+              0.06424269080162048,
+              4.680508613586426
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MetalPanel_TypeB1-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/MetalPanel_TypeB1.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/MetalPanel_TypeB1_thumbnails/Object/metalpanel_typeb1-col.webp",
+        "hash": "SHA256:dde08f96d3614191db07287b0d461085358087256ada81906e104011304b7588"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              5.040703296661377,
+              0.23840516805648804,
+              4.68682861328125
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MetalPanel_TypeB2-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/MetalPanel_TypeB2.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/MetalPanel_TypeB2_thumbnails/Object/metalpanel_typeb2-col.webp",
+        "hash": "SHA256:fd2fbfb57012b56c59eafc5852731600e35e96fd5690811813c00b5c4b8300e2"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              5.037899017333984,
+              0.21037355065345764,
+              4.686829090118408
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MetalPanel_TypeC1-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/MetalPanel_TypeC1.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/MetalPanel_TypeC1_thumbnails/Object/metalpanel_typec1-col.webp",
+        "hash": "SHA256:cfbc3391af8f40db19bd10ef13ae304de97adf68fdff38b596f6dd923b05ea11"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              5.2270283699035645,
+              0.041805945336818695,
+              1.207361102104187
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MetalPanel_TypeC2-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/MetalPanel_TypeC2.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/MetalPanel_TypeC2_thumbnails/Object/metalpanel_typec2-col.webp",
+        "hash": "SHA256:a8444f45d7d5001d6cbfdaa37820a27dbd3ad8b43aaf4b3e2abb529b70f73112"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              5.227028846740723,
+              0.05569931119680405,
+              1.207361102104187
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MetalPanel_TypeC3-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/MetalPanel_TypeC3.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/MetalPanel_TypeC3_thumbnails/Object/metalpanel_typec3-col.webp",
+        "hash": "SHA256:652d83865872166c1f2d836a2821479125231564057c6b1f438d6e29e75b3601"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              5.227028846740723,
+              0.04180595651268959,
+              1.207361102104187
             ],
             "itemtype": "IDP_FLOAT"
           }
@@ -1593,8 +1767,8 @@
     },
     {
       "path": "Assets/Maintainence_Car.blend",
-      "size_in_bytes": 306257,
-      "hash": "SHA256:2e6baaa1e3d5c218071de9860af9091140843a7936e839c202386e876df42380",
+      "size_in_bytes": 288909,
+      "hash": "SHA256:9f6fb9d7c23a0e9eaeb50c18b424e2140b0a6b9bff7385811515073b34a48869",
       "blender_version": "5.2.44"
     },
     {
@@ -1607,6 +1781,42 @@
       "path": "Assets/Medium_Decorative_Pillar.blend",
       "size_in_bytes": 124070,
       "hash": "SHA256:9743aaa689df11fe72ffd8b82424823f1ee7949dc4b099c66b2ac5b1ab52f97b",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/MetalPanel_TypeA.blend",
+      "size_in_bytes": 108939,
+      "hash": "SHA256:964220334727ff6254dd6a788f0e9bfb47c8bd324327a7adaf88aa0dad35a2ed",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/MetalPanel_TypeB1.blend",
+      "size_in_bytes": 107338,
+      "hash": "SHA256:29a0a1e6a44ce442e0877c3d6c820ee40dc2ebc0ab4b6a5bb7a6d83b1b32db64",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/MetalPanel_TypeB2.blend",
+      "size_in_bytes": 106627,
+      "hash": "SHA256:0f4ea35d9592c9cec5e2e1477c08f74f94866d900c16a86449e6eb0f3ab55e40",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/MetalPanel_TypeC1.blend",
+      "size_in_bytes": 105470,
+      "hash": "SHA256:3cd984c5f5551107c3331813cde1c823882e5a58603d478e858b6fb7cda4f53e",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/MetalPanel_TypeC2.blend",
+      "size_in_bytes": 106147,
+      "hash": "SHA256:9f6f55076320bdbdcba74d3075a518ea23d5e4d379785d8a5916d0f008fa5c44",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/MetalPanel_TypeC3.blend",
+      "size_in_bytes": 105349,
+      "hash": "SHA256:9239512f6435d39b8f73ffb46216ad5486e8d93cc1501ca2b67ba591513750ac",
       "blender_version": "5.2.44"
     },
     {
