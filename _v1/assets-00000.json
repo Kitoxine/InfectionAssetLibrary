@@ -1,6 +1,6 @@
 {
-  "asset_count": 70,
-  "file_count": 69,
+  "asset_count": 73,
+  "file_count": 72,
   "assets": [
     {
       "name": "4x4_Cross_Beam-col",
@@ -206,6 +206,35 @@
       }
     },
     {
+      "name": "Chain_Bridge-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/Chain_Bridge.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/Chain_Bridge_thumbnails/Object/chain_bridge-col.webp",
+        "hash": "SHA256:5e8026e9106034feab43cafa9236bb4249c7584d44b1f0b41073d667bc60fa4c"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.164571762084961,
+              6.845822811126709,
+              0.8945655226707458
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
       "name": "Curvy_Support-col",
       "id_type": "OBJECT",
       "files": [
@@ -322,6 +351,35 @@
       }
     },
     {
+      "name": "Diagonal_Strut-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/Diagonal_Strut.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/Diagonal_Strut_thumbnails/Object/diagonal_strut-col.webp",
+        "hash": "SHA256:ec642b1f2928afb5dd9795858ae70345f5a1d47ae3c4972175048287bbd361c5"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              2.5567288398742676,
+              0.20607411861419678,
+              2.5567290782928467
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
       "name": "Elevator_Door-col",
       "id_type": "OBJECT",
       "files": [
@@ -431,6 +489,35 @@
               5.231679916381836,
               0.640342652797699,
               1.125079870223999
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "I_Beam_Vertical-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/I_Beam_Vertical.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/I_Beam_Vertical_thumbnails/Object/i_beam_vertical-col.webp",
+        "hash": "SHA256:e8da624f98c94da2029352666c732ef12b4a7d50a4d80eb8bab06ed45de3a6b0"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.564591646194458,
+              0.5630395412445068,
+              8.364632606506348
             ],
             "itemtype": "IDP_FLOAT"
           }
@@ -2041,6 +2128,12 @@
       "blender_version": "5.2.44"
     },
     {
+      "path": "Assets/Chain_Bridge.blend",
+      "size_in_bytes": 339313,
+      "hash": "SHA256:5c9aa5a130822254c5b148ba0707d6f5431c99d28c0d37b636adb10e0630ca4d",
+      "blender_version": "5.2.44"
+    },
+    {
       "path": "Assets/Curvy_Support.blend",
       "size_in_bytes": 131068,
       "hash": "SHA256:99e5c4db5128e6bdc90439b974cecbeec3c86839cdcaf3aec0d4ff1e14f004e5",
@@ -2065,6 +2158,12 @@
       "blender_version": "5.2.44"
     },
     {
+      "path": "Assets/Diagonal_Strut.blend",
+      "size_in_bytes": 107482,
+      "hash": "SHA256:f868acf154f374014fb960bb456bbfb6c041e0ab2856d31c787530e6f268e713",
+      "blender_version": "5.2.44"
+    },
+    {
       "path": "Assets/Elevator_Door.blend",
       "size_in_bytes": 108344,
       "hash": "SHA256:760891a575db57f4c02d5a63752e1ac4466b4b419679ab19dd33057cba08ac8e",
@@ -2086,6 +2185,12 @@
       "path": "Assets/Horizontal_Support_TypeA.blend",
       "size_in_bytes": 112777,
       "hash": "SHA256:0acff37cbdec32a34433ef5c957b96b829f6dacabf042bfbff1972b106dd374f",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/I_Beam_Vertical.blend",
+      "size_in_bytes": 103700,
+      "hash": "SHA256:67ab9915e0a955179a620fda0a6be1212a339d406cbb10e17d4e44ab008fd57c",
       "blender_version": "5.2.44"
     },
     {
