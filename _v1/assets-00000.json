@@ -1,6 +1,6 @@
 {
-  "asset_count": 73,
-  "file_count": 72,
+  "asset_count": 74,
+  "file_count": 73,
   "assets": [
     {
       "name": "4x4_Cross_Beam-col",
@@ -431,6 +431,35 @@
               1.9061498641967773,
               0.1421402096748352,
               1.168250560760498
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Fan_Housing-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/Fan_Housing.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/Fan_Housing_thumbnails/Object/fan_housing-col.webp",
+        "hash": "SHA256:0e62f374a3e90d20db65963799c0761eef17dca6cd36cc64bf72e3a9ec51d424"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              10.311681747436523,
+              10.981582641601562,
+              10.311681747436523
             ],
             "itemtype": "IDP_FLOAT"
           }
@@ -2173,6 +2202,12 @@
       "path": "Assets/Elevator_Pully_Assembly.blend",
       "size_in_bytes": 156064,
       "hash": "SHA256:276d611ef7489d330e4e2b50984faa041bd93d329ff762234f3f36aa977afd59",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/Fan_Housing.blend",
+      "size_in_bytes": 160160,
+      "hash": "SHA256:7400d9585bbaeaa0cf9e840f49f83cde09bf041efd18ab57cf80d3d4453d762f",
       "blender_version": "5.2.44"
     },
     {
