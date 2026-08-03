@@ -1,6 +1,6 @@
 {
-  "asset_count": 69,
-  "file_count": 68,
+  "asset_count": 70,
+  "file_count": 69,
   "assets": [
     {
       "name": "4x4_Cross_Beam-col",
@@ -1354,6 +1354,23 @@
       }
     },
     {
+      "name": "Rusted_Metal",
+      "id_type": "MATERIAL",
+      "files": [
+        "Assets/Rusted_Metal.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/Rusted_Metal_thumbnails/Material/rusted_metal.webp",
+        "hash": "SHA256:0c3bc87e641e77fe7566589990c0d832b5444be04d187b2c28030c84a2bb4e6c"
+      },
+      "meta": {
+        "catalog_id": "be91986a-c3e4-4bb7-bc20-05694917bcf1"
+      }
+    },
+    {
       "name": "Scaffolding_Assembly-col",
       "id_type": "OBJECT",
       "files": [
@@ -2255,6 +2272,12 @@
       "path": "Assets/Railing_TypeC.blend",
       "size_in_bytes": 107974,
       "hash": "SHA256:dc628a82e9f83842a2da120eacaa660fccabbd1f62870e563e2e35d40182ec3c",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/Rusted_Metal.blend",
+      "size_in_bytes": 145976,
+      "hash": "SHA256:9e38d3572e389fa79ef1f2ff82688b8093a75873369f4458ccfcc4dcc83afe9b",
       "blender_version": "5.2.44"
     },
     {
