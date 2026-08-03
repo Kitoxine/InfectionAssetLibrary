@@ -380,23 +380,6 @@
       }
     },
     {
-      "name": "Filthy_Glass",
-      "id_type": "MATERIAL",
-      "files": [
-        "Assets/FilthyGlass.blend"
-      ],
-      "bl_versions": {
-        "min": "5.2"
-      },
-      "thumbnail": {
-        "url": "Assets/FilthyGlass_thumbnails/Material/filthy_glass.webp",
-        "hash": "SHA256:e28c8890522fe5ca3e7cb8a31074f0f4f2e8202f91d26ed16016dfa73e498bf8"
-      },
-      "meta": {
-        "catalog_id": "be91986a-c3e4-4bb7-bc20-05694917bcf1"
-      }
-    },
-    {
       "name": "Glass_Doors-col",
       "id_type": "OBJECT",
       "files": [
@@ -1978,6 +1961,23 @@
           }
         ]
       }
+    },
+    {
+      "name": "Filthy_Glass",
+      "id_type": "MATERIAL",
+      "files": [
+        "Materials/FilthyGlass.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Materials/FilthyGlass_thumbnails/Material/filthy_glass.webp",
+        "hash": "SHA256:e28c8890522fe5ca3e7cb8a31074f0f4f2e8202f91d26ed16016dfa73e498bf8"
+      },
+      "meta": {
+        "catalog_id": "be91986a-c3e4-4bb7-bc20-05694917bcf1"
+      }
     }
   ],
   "files": [
@@ -2057,12 +2057,6 @@
       "path": "Assets/Elevator_Pully_Assembly.blend",
       "size_in_bytes": 156064,
       "hash": "SHA256:276d611ef7489d330e4e2b50984faa041bd93d329ff762234f3f36aa977afd59",
-      "blender_version": "5.2.44"
-    },
-    {
-      "path": "Assets/FilthyGlass.blend",
-      "size_in_bytes": 190272,
-      "hash": "SHA256:62479166bb8c26003509dee0302c1e5bc07be1b1c3c5ff8a98d716e66e2cc156",
       "blender_version": "5.2.44"
     },
     {
@@ -2387,6 +2381,12 @@
       "path": "Assets/Wooden_Platform.blend",
       "size_in_bytes": 110811,
       "hash": "SHA256:2471282169b055e2d192145aa43476884399386dffb8738f652179cb58ccf648",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Materials/FilthyGlass.blend",
+      "size_in_bytes": 190272,
+      "hash": "SHA256:62479166bb8c26003509dee0302c1e5bc07be1b1c3c5ff8a98d716e66e2cc156",
       "blender_version": "5.2.44"
     }
   ]
