@@ -1,6 +1,6 @@
 {
-  "asset_count": 74,
-  "file_count": 73,
+  "asset_count": 75,
+  "file_count": 74,
   "assets": [
     {
       "name": "4x4_Cross_Beam-col",
@@ -750,6 +750,35 @@
               0.5333104133605957,
               0.04957391694188118,
               2.307295799255371
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ladder_TypeC-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/Ladder_TypeC.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/Ladder_TypeC_thumbnails/Object/ladder_typec-col.webp",
+        "hash": "SHA256:7362c5827df52f6ce28d0f2114c90ba76170aa6009016cc7c2ae6c88bcdca942"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.5222668647766113,
+              0.14983372390270233,
+              1.8002128601074219
             ],
             "itemtype": "IDP_FLOAT"
           }
@@ -2268,6 +2297,12 @@
       "path": "Assets/Ladder_TypeB.blend",
       "size_in_bytes": 120370,
       "hash": "SHA256:97af99dcdaa3b69c1e21ed7f9b339aeab334fff5e770b327dc3f448aef29f77b",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/Ladder_TypeC.blend",
+      "size_in_bytes": 108567,
+      "hash": "SHA256:ce47d492220f1bb6059a77257c0c0909d4303c0f31847f256c31c4364d017000",
       "blender_version": "5.2.44"
     },
     {
