@@ -1,6 +1,6 @@
 {
-  "asset_count": 75,
-  "file_count": 74,
+  "asset_count": 76,
+  "file_count": 75,
   "assets": [
     {
       "name": "4x4_Cross_Beam-col",
@@ -1690,6 +1690,35 @@
       }
     },
     {
+      "name": "Square_Panels-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/Square_Panels.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/Square_Panels_thumbnails/Object/square_panels-col.webp",
+        "hash": "SHA256:b5503c30e72e587d87180ee4962192a66221e199b8c5d1d0acc87113598e19e6"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              11.522624969482422,
+              0.32048869132995605,
+              11.522624969482422
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
       "name": "Stairs-col",
       "id_type": "OBJECT",
       "files": [
@@ -2489,6 +2518,12 @@
       "path": "Assets/SprayRoom_Nozzle.blend",
       "size_in_bytes": 124319,
       "hash": "SHA256:391458855a1ec12079787571f85c4172a2c76f596c05d15eed7184124f4b8a29",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/Square_Panels.blend",
+      "size_in_bytes": 164846,
+      "hash": "SHA256:e1dd7cfb9ef48c1af99d9b97f12f49c0950dde252e4ba891ee471b278172d406",
       "blender_version": "5.2.44"
     },
     {
