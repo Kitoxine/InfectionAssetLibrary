@@ -905,13 +905,13 @@
       "name": "UV Test",
       "id_type": "MATERIAL",
       "files": [
-        "Assets/Maintainence_Car.blend"
+        "Assets/Maintenance_Car.blend"
       ],
       "bl_versions": {
         "min": "5.2"
       },
       "thumbnail": {
-        "url": "Assets/Maintainence_Car_thumbnails/Material/uv-test.webp",
+        "url": "Assets/Maintenance_Car_thumbnails/Material/uv-test.webp",
         "hash": "SHA256:247c2575e040d58d8425d00b08ca0ff03539f5d7aee23189cb466d53dc3fc94c"
       },
       "meta": {
@@ -919,20 +919,19 @@
       }
     },
     {
-      "name": "MaintainenceCar-col",
+      "name": "Maintenance_Car-col",
       "id_type": "OBJECT",
       "files": [
-        "Assets/Maintainence_Car.blend"
+        "Assets/Maintenance_Car.blend"
       ],
       "bl_versions": {
         "min": "5.2"
       },
       "thumbnail": {
-        "url": "Assets/Maintainence_Car_thumbnails/Object/maintainencecar-col.webp",
+        "url": "Assets/Maintenance_Car_thumbnails/Object/maintenance_car-col.webp",
         "hash": "SHA256:b10d755f46def48285965170f025e3cc0abdd4a6e0fab636ccc69fee12348f98"
       },
       "meta": {
-        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
         "properties": [
           {
             "name": "dimensions",
@@ -1709,9 +1708,9 @@
             "name": "dimensions",
             "type": "IDP_ARRAY",
             "value": [
-              11.522624969482422,
-              0.32048869132995605,
-              11.522624969482422
+              6.4018354415893555,
+              0.17805975675582886,
+              6.4018354415893555
             ],
             "itemtype": "IDP_FLOAT"
           }
@@ -2359,9 +2358,9 @@
       "blender_version": "5.2.44"
     },
     {
-      "path": "Assets/Maintainence_Car.blend",
-      "size_in_bytes": 290142,
-      "hash": "SHA256:8bb8f34700c709a70aa4b480c7fac1c6d0ef9fac46618eea2a55f1ba8890a028",
+      "path": "Assets/Maintenance_Car.blend",
+      "size_in_bytes": 289943,
+      "hash": "SHA256:f0cc234d085ae7a5cf8fa33cdeb482075265b932d89aa22f949457a8a3fb1588",
       "blender_version": "5.2.44"
     },
     {
@@ -2522,8 +2521,8 @@
     },
     {
       "path": "Assets/Square_Panels.blend",
-      "size_in_bytes": 164846,
-      "hash": "SHA256:e1dd7cfb9ef48c1af99d9b97f12f49c0950dde252e4ba891ee471b278172d406",
+      "size_in_bytes": 127533,
+      "hash": "SHA256:660f5428a72eaa3df4419001d8e273e664745ba45c556e8f38f4ba97d8fd2ee3",
       "blender_version": "5.2.44"
     },
     {
