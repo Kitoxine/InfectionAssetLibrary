@@ -1,6 +1,6 @@
 {
-  "asset_count": 77,
-  "file_count": 76,
+  "asset_count": 78,
+  "file_count": 77,
   "assets": [
     {
       "name": "4x4_Cross_Beam-col",
@@ -464,6 +464,23 @@
             "itemtype": "IDP_FLOAT"
           }
         ]
+      }
+    },
+    {
+      "name": "Filthy_Glass",
+      "id_type": "MATERIAL",
+      "files": [
+        "Assets/FilthyGlass.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/FilthyGlass_thumbnails/Material/filthy_glass.webp",
+        "hash": "SHA256:d62fb6da2035ab1e00d3110d666d7b3bb2ac2aba827208a531b11863bb4d5631"
+      },
+      "meta": {
+        "catalog_id": "be91986a-c3e4-4bb7-bc20-05694917bcf1"
       }
     },
     {
@@ -2203,26 +2220,26 @@
   "files": [
     {
       "path": "Assets/4x4_Cross_Beam.blend",
-      "size_in_bytes": 118436,
-      "hash": "SHA256:7ecd8fdfc06a0030b92c3daa37b495c9694e96c787b43c383adcfca44cca7cfb",
+      "size_in_bytes": 119077,
+      "hash": "SHA256:28416a74ae284fbb0dbfb52d50d8b34474dcf8b26839fb8bfabfa6884b9e18ce",
       "blender_version": "5.2.44"
     },
     {
       "path": "Assets/Arched_Door.blend",
-      "size_in_bytes": 106240,
-      "hash": "SHA256:8c049a3a9d70b6e475e34ce383000434c76517a336ba19bf101ebc92a0498e68",
+      "size_in_bytes": 105053,
+      "hash": "SHA256:9f5b45cd33a1b9853db2c5cd9282b3b80ce40dbc30c1cf4072d13ab1e86cd7df",
       "blender_version": "5.2.44"
     },
     {
       "path": "Assets/Arched_Doorway.blend",
-      "size_in_bytes": 126485,
-      "hash": "SHA256:98c4e645a21f7123a01a70634ea91c8dd2e43a88b8feb956b32cd31e4fb09445",
+      "size_in_bytes": 128858,
+      "hash": "SHA256:d1cf6dcccbea96a4df34733b03a13a36c6c6a301480d415b5af345da62489391",
       "blender_version": "5.2.44"
     },
     {
       "path": "Assets/Arched_Elevator.blend",
-      "size_in_bytes": 128166,
-      "hash": "SHA256:8252d83255927e80ced74748d786c76a7db0a0495ddfe79d4437ec4d12a091bc",
+      "size_in_bytes": 129110,
+      "hash": "SHA256:ee8bf06677aa293c901a76fb3cb8fe2b8ee10a71a6529ea0c9b7ed69d60f2532",
       "blender_version": "5.2.44"
     },
     {
@@ -2295,6 +2312,12 @@
       "path": "Assets/Fan_Housing.blend",
       "size_in_bytes": 157198,
       "hash": "SHA256:9a51126d74b66846607c81d61be31be275af4cb6b5c31c84a8654d68978d8735",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/FilthyGlass.blend",
+      "size_in_bytes": 177954,
+      "hash": "SHA256:9cde732e9dcd4bc0a01f86e2c580509f65b506337573a17f306ee4da57e970a7",
       "blender_version": "5.2.44"
     },
     {
