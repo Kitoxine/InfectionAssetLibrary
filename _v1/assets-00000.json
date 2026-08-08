@@ -1,6 +1,6 @@
 {
-  "asset_count": 76,
-  "file_count": 75,
+  "asset_count": 77,
+  "file_count": 76,
   "assets": [
     {
       "name": "4x4_Cross_Beam-col",
@@ -663,6 +663,35 @@
               1.056081771850586,
               0.28719037771224976,
               4.149219512939453
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "kody test",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/kody test.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/kody%20test_thumbnails/Object/kody-test.webp",
+        "hash": "SHA256:cc2c0aed6b9bbe0f389d5265b0c7f546dd3b17771509b09ddf0f0ada544c116d"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              10.810450553894043,
+              2.0,
+              2.0
             ],
             "itemtype": "IDP_FLOAT"
           }
@@ -2614,6 +2643,13 @@
       "size_in_bytes": 110811,
       "hash": "SHA256:2471282169b055e2d192145aa43476884399386dffb8738f652179cb58ccf648",
       "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/kody test.blend",
+      "size_in_bytes": 102060,
+      "hash": "SHA256:1314f83eed6c9654a8be1b7873440e312e5063248f09432fc39dd0164342ae1c",
+      "blender_version": "5.2.44",
+      "url": "Assets/kody%20test.blend"
     },
     {
       "path": "Materials/FilthyGlass.blend",
