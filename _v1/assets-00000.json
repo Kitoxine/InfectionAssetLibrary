@@ -706,7 +706,7 @@
             "name": "dimensions",
             "type": "IDP_ARRAY",
             "value": [
-              10.810450553894043,
+              3.70387864112854,
               2.0,
               2.0
             ],
@@ -2670,8 +2670,8 @@
     },
     {
       "path": "Assets/kody test.blend",
-      "size_in_bytes": 102060,
-      "hash": "SHA256:1314f83eed6c9654a8be1b7873440e312e5063248f09432fc39dd0164342ae1c",
+      "size_in_bytes": 105992,
+      "hash": "SHA256:e67a4fd9102d5f9ea51c0a8194dd09de5c656267a95b386c57c75347d421370e",
       "blender_version": "5.2.44",
       "url": "Assets/kody%20test.blend"
     },

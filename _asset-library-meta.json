@@ -2,7 +2,7 @@
   "api_versions": {
     "v1": {
       "url": "_v1/asset-index.json",
-      "hash": "SHA256:c4f866d86c564a9f2e463b5f292e384e0507319567420773c8870e34d1da1853"
+"hash": "SHA256:dc974deecf908059ce500699b5595f7f262aa001483e1c339c0c8a20d8037278"
     }
   },
   "name": "Infection Asset Library",
