@@ -961,6 +961,7 @@
         "hash": "SHA256:b10d755f46def48285965170f025e3cc0abdd4a6e0fab636ccc69fee12348f98"
       },
       "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
         "properties": [
           {
             "name": "dimensions",
@@ -2388,8 +2389,8 @@
     },
     {
       "path": "Assets/Maintenance_Car.blend",
-      "size_in_bytes": 289943,
-      "hash": "SHA256:f0cc234d085ae7a5cf8fa33cdeb482075265b932d89aa22f949457a8a3fb1588",
+      "size_in_bytes": 286206,
+      "hash": "SHA256:e69b3d9fbeee09d38cb769a75b45a0f0d33a5150bc2fa0d6f371c2989476b146",
       "blender_version": "5.2.44"
     },
     {
