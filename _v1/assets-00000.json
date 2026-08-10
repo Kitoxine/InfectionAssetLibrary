@@ -1,6 +1,6 @@
 {
-  "asset_count": 78,
-  "file_count": 77,
+  "asset_count": 80,
+  "file_count": 79,
   "assets": [
     {
       "name": "4x4_Cross_Beam-col",
@@ -481,6 +481,64 @@
       },
       "meta": {
         "catalog_id": "be91986a-c3e4-4bb7-bc20-05694917bcf1"
+      }
+    },
+    {
+      "name": "Flood_Light_TypeA-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/Flood_Light_TypeA.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/Flood_Light_TypeA_thumbnails/Object/flood_light_typea-col.webp",
+        "hash": "SHA256:dbc35d2e8ed6cda106f346b35d26c5a445b8781adabcd4c5da1a18e5dbf2dd9f"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.3239065408706665,
+              0.20160305500030518,
+              0.6619534492492676
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Flood_Light_TypeB-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/Flood_Light_TypeB.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/Flood_Light_TypeB_thumbnails/Object/flood_light_typeb-col.webp",
+        "hash": "SHA256:e4fe9282914296c53dce33cda929324eefdc9302c8f1f1b438625026abcbaf54"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.3239065408706665,
+              0.21095949411392212,
+              0.6619535088539124
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
       }
     },
     {
@@ -2318,6 +2376,18 @@
       "path": "Assets/FilthyGlass.blend",
       "size_in_bytes": 177954,
       "hash": "SHA256:9cde732e9dcd4bc0a01f86e2c580509f65b506337573a17f306ee4da57e970a7",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/Flood_Light_TypeA.blend",
+      "size_in_bytes": 124514,
+      "hash": "SHA256:2c839c1849a8d7a79b08bfddcc39e73cba03c0cab0bed96d4835f844277dbc98",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/Flood_Light_TypeB.blend",
+      "size_in_bytes": 124907,
+      "hash": "SHA256:72803cfe5b55ecf6380969c4a1f91a0ea6a8e06203b46b1fefb10aad17887d1e",
       "blender_version": "5.2.44"
     },
     {
