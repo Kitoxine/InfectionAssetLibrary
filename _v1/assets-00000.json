@@ -1,6 +1,6 @@
 {
-  "asset_count": 89,
-  "file_count": 88,
+  "asset_count": 92,
+  "file_count": 91,
   "assets": [
     {
       "name": "4x4_Cross_Beam-col",
@@ -651,6 +651,93 @@
               0.5,
               0.17791414260864258,
               0.5
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Greeblie_Size1.5_TypeA-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/Greeblie_Size1.5_TypeA.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/Greeblie_Size1.5_TypeA_thumbnails/Object/greeblie_size15_typea-col.webp",
+        "hash": "SHA256:3cc843e45e472c494b8a8f9a9691ff4ad410b8ce1f92c2e127401a5aafa8aa77"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.5,
+              0.3047739863395691,
+              1.5
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Greeblie_Size1.5_TypeB-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/Greeblie_Size1.5_TypeB.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/Greeblie_Size1.5_TypeB_thumbnails/Object/greeblie_size15_typeb-col.webp",
+        "hash": "SHA256:f3c02b93ab06cb0567ed9cf5065c11bbe9b40f993055c05256715ef8ffe21657"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              1.9923114776611328,
+              0.3047740161418915,
+              1.5
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Greeblie_Size1.5_TypeC-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/Greeblie_Size1.5_TypeC.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/Greeblie_Size1.5_TypeC_thumbnails/Object/greeblie_size15_typec-col.webp",
+        "hash": "SHA256:bf6cd1820671f63c21bf3848cdf79a530e27ba0f68ec458e1eab8f1e1a9bf86c"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              2.993237257003784,
+              0.30477404594421387,
+              1.5
             ],
             "itemtype": "IDP_FLOAT"
           }
@@ -2673,6 +2760,24 @@
       "path": "Assets/Greeblie_Size.5_TypeC.blend",
       "size_in_bytes": 124794,
       "hash": "SHA256:14365346b78e0db2ea9226d5ba1d4f256a5701b32c27ded5e8ceeae5e3c20134",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/Greeblie_Size1.5_TypeA.blend",
+      "size_in_bytes": 127011,
+      "hash": "SHA256:a73796129c60076ee4559bcdcef9aa901951fb30a046c5bde6e51d328c872e68",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/Greeblie_Size1.5_TypeB.blend",
+      "size_in_bytes": 124741,
+      "hash": "SHA256:e652528da9e0f730354b043dd4cf1cf83fcd43a18134102a02ed43896e1f13d8",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/Greeblie_Size1.5_TypeC.blend",
+      "size_in_bytes": 120866,
+      "hash": "SHA256:d7b19797a39a9920d6ae1fda1ec98923f302507c4c5243393dd25673f8083c49",
       "blender_version": "5.2.44"
     },
     {
