@@ -1,6 +1,6 @@
 {
-  "asset_count": 92,
-  "file_count": 91,
+  "asset_count": 93,
+  "file_count": 92,
   "assets": [
     {
       "name": "4x4_Cross_Beam-col",
@@ -361,7 +361,7 @@
       },
       "thumbnail": {
         "url": "Assets/Diagonal_Strut_thumbnails/Object/diagonal_strut-col.webp",
-        "hash": "SHA256:ec642b1f2928afb5dd9795858ae70345f5a1d47ae3c4972175048287bbd361c5"
+        "hash": "SHA256:fda054b5f66dcc05e48f976e2955bf1061da603a4852c77a1555561cbaa4e676"
       },
       "meta": {
         "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
@@ -371,7 +371,7 @@
             "type": "IDP_ARRAY",
             "value": [
               2.5567288398742676,
-              0.20607411861419678,
+              0.22092507779598236,
               2.5567290782928467
             ],
             "itemtype": "IDP_FLOAT"
@@ -564,6 +564,35 @@
               1.9628221988677979,
               0.09625247120857239,
               1.9869134426116943
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Greeblie_AC-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/Greeblie_AC.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/Greeblie_AC_thumbnails/Object/greeblie_ac-col.webp",
+        "hash": "SHA256:9a8451de21e359ed6643211cff21c08d96293ed185fba7ab04777f91591fe7ac"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              3.288512945175171,
+              2.2927165031433105,
+              4.140846252441406
             ],
             "itemtype": "IDP_FLOAT"
           }
@@ -2698,8 +2727,8 @@
     },
     {
       "path": "Assets/Diagonal_Strut.blend",
-      "size_in_bytes": 107482,
-      "hash": "SHA256:f868acf154f374014fb960bb456bbfb6c041e0ab2856d31c787530e6f268e713",
+      "size_in_bytes": 106324,
+      "hash": "SHA256:e9db6ba0e7bf349f0b6c0630d71c1f7cdedf0d07415c7e1fb6381a2efa742cd1",
       "blender_version": "5.2.44"
     },
     {
@@ -2742,6 +2771,12 @@
       "path": "Assets/Glass_Doors.blend",
       "size_in_bytes": 122584,
       "hash": "SHA256:ebf668b058021105ea753b16d535c02b4211d8bbe62596d28e4d03e5c934f21d",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/Greeblie_AC.blend",
+      "size_in_bytes": 175238,
+      "hash": "SHA256:8e71df0223b0d8c5db18b802b720702092d1317a3ebf1106c4b5b12d980969de",
       "blender_version": "5.2.44"
     },
     {
