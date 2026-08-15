@@ -1,6 +1,6 @@
 {
-  "asset_count": 95,
-  "file_count": 93,
+  "asset_count": 96,
+  "file_count": 94,
   "assets": [
     {
       "name": "4x4_Cross_Beam-col",
@@ -2635,6 +2635,23 @@
       }
     },
     {
+      "name": "Concrete",
+      "id_type": "MATERIAL",
+      "files": [
+        "Materials/Concrete.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Materials/Concrete_thumbnails/Material/concrete.webp",
+        "hash": "SHA256:4e7bee19d8859b5b97b73665d90124cba7a5c27f5ff1bff5fb5b691baa10140f"
+      },
+      "meta": {
+        "catalog_id": "be91986a-c3e4-4bb7-bc20-05694917bcf1"
+      }
+    },
+    {
       "name": "Filthy_Glass",
       "id_type": "MATERIAL",
       "files": [
@@ -3244,6 +3261,12 @@
       "hash": "SHA256:e67a4fd9102d5f9ea51c0a8194dd09de5c656267a95b386c57c75347d421370e",
       "blender_version": "5.2.44",
       "url": "Assets/kody%20test.blend"
+    },
+    {
+      "path": "Materials/Concrete.blend",
+      "size_in_bytes": 166123,
+      "hash": "SHA256:fb5b6576d085932b6625f5f202849f66a92d4307e37dac1c2aecbf39efbce744",
+      "blender_version": "5.2.44"
     },
     {
       "path": "Materials/FilthyGlass.blend",
