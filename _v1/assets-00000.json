@@ -1,6 +1,6 @@
 {
-  "asset_count": 93,
-  "file_count": 92,
+  "asset_count": 95,
+  "file_count": 93,
   "assets": [
     {
       "name": "4x4_Cross_Beam-col",
@@ -2650,6 +2650,51 @@
       "meta": {
         "catalog_id": "be91986a-c3e4-4bb7-bc20-05694917bcf1"
       }
+    },
+    {
+      "name": "Procedural_Rust",
+      "id_type": "MATERIAL",
+      "files": [
+        "Materials/Procedural_Rust.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Materials/Procedural_Rust_thumbnails/Material/procedural_rust.webp",
+        "hash": "SHA256:36cd8c45bb36f692cc81ffcd3d9c5eb88e4daf79026163a703be6f6ff533dcc5"
+      },
+      "meta": {
+        "catalog_id": "be91986a-c3e4-4bb7-bc20-05694917bcf1"
+      }
+    },
+    {
+      "name": "Icosphere",
+      "id_type": "OBJECT",
+      "files": [
+        "Materials/Procedural_Rust.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Materials/Procedural_Rust_thumbnails/Object/icosphere.webp",
+        "hash": "SHA256:628ef1042ba8144220879f73a4e7843dac4ee5387ec585df0091e2a02057e0ab"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              2.0,
+              2.0,
+              1.9999998807907104
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
     }
   ],
   "files": [
@@ -3204,6 +3249,12 @@
       "path": "Materials/FilthyGlass.blend",
       "size_in_bytes": 190272,
       "hash": "SHA256:62479166bb8c26003509dee0302c1e5bc07be1b1c3c5ff8a98d716e66e2cc156",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Materials/Procedural_Rust.blend",
+      "size_in_bytes": 200336,
+      "hash": "SHA256:1ffd532580f2ee5872a207695f41b61126f58d87c385efbd52cc5796ab05a087",
       "blender_version": "5.2.44"
     }
   ]
