@@ -1,6 +1,6 @@
 {
-  "asset_count": 96,
-  "file_count": 94,
+  "asset_count": 99,
+  "file_count": 97,
   "assets": [
     {
       "name": "4x4_Cross_Beam-col",
@@ -170,6 +170,93 @@
               19.222412109375,
               0.6280810236930847,
               1.4542874097824097
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Bottle_TypeA-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/Bottle_TypeA.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/Bottle_TypeA_thumbnails/Object/bottle_typea-col.webp",
+        "hash": "SHA256:d216594b929f4c422bd53df7d16115deda1bf11359cd0388875b159608624dcc"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.07582318037748337,
+              0.07582318037748337,
+              0.27618804574012756
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Bottle_TypeB-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/Bottle_TypeB.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/Bottle_TypeB_thumbnails/Object/bottle_typeb-col.webp",
+        "hash": "SHA256:037c873bdd73749eaa5897f887db499d8173c386335580bd1cb6fdbbbd9ff86e"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.07491860538721085,
+              0.07491859793663025,
+              0.2715303897857666
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Bottle_TypeC-col",
+      "id_type": "OBJECT",
+      "files": [
+        "Assets/Bottle_TypeC.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Assets/Bottle_TypeC_thumbnails/Object/bottle_typec-col.webp",
+        "hash": "SHA256:8cb99ed4d017e439a26a06d496dcb5d9374fae9b50b86172f11933533d3e52e5"
+      },
+      "meta": {
+        "catalog_id": "7d0673d8-e720-4a07-ae8a-252da787db37",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              0.07769923657178879,
+              0.07769923657178879,
+              0.27467480301856995
             ],
             "itemtype": "IDP_FLOAT"
           }
@@ -2749,6 +2836,24 @@
       "path": "Assets/Beam_Support.blend",
       "size_in_bytes": 114785,
       "hash": "SHA256:cfd03f8aa1a6f0541c6bb7d7bf7141571d1efcaa572a6f74d196fffbabab23e9",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/Bottle_TypeA.blend",
+      "size_in_bytes": 111090,
+      "hash": "SHA256:b311bc852bfc90b9f0f4d8020379e53b766322abca69405d9e494b2773560fa9",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/Bottle_TypeB.blend",
+      "size_in_bytes": 117399,
+      "hash": "SHA256:58262cb4e004154d87ebf103410fc8f8d6f615027eaa9dea23b919db4105f830",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Assets/Bottle_TypeC.blend",
+      "size_in_bytes": 115977,
+      "hash": "SHA256:20ab40c34e510a0b6e57d914a8f97ce3f2371a30e5565486cd289bed8e901e77",
       "blender_version": "5.2.44"
     },
     {
